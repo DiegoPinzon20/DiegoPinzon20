@@ -5,7 +5,7 @@ Automatizador de pruebas de software
 ------------------------------------
 
 * 🌍  Vivo en Medellín, Colombia <span>&#127464;&#127476;</span>
-* 🤝  Estoy abierto a colaborar en Automatización de pruebas web,api y móviles.
+* 🤝  Estoy abierto a colaborar en Automatización de pruebas web, api y móviles.
 * ⚡  Me gustaría aprender desarrollo de aplicaciones móviles o web
 
 ### Habilidades
