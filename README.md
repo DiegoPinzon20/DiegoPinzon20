@@ -1,10 +1,10 @@
-Hi 👋 My name is Diego Andres Pinzon Quintero
+Hola 👋 Mi nombre es Diego Andres
 =============================================
 
 Automatizador de pruebas de software
 ------------------------------------
 
-* 🌍  I'm based in Medellín, Colombia
+* 🌍  Vivo en Medellín, Colombia :colombia:
 * 🤝  I'm open to collaborating on Automatización de pruebas móviles, web
 * ⚡  Me gustaría aprender desarrollo de aplicaciones móviles o web
 
