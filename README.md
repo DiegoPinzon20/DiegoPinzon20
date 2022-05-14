@@ -27,6 +27,13 @@ Automatizador de pruebas de software
 </p>
 
 
+<p>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="150" height="60" alt="MySql" /></a>
+<a href="https://www.oracle.com/co/database/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" width="150" height="60" alt="Oracle Database" /></a>
+<a href="https://www.microsoft.com/es-es/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="60" height="80" alt="SQL Server" /></a>
+</p>
+
+
 
 ### Redes sociales
 
