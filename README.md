@@ -1,66 +1,49 @@
-Hola, mi nombre es Diego Pinzón👋
-=============================================
+###Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">
+Mi nombre es Diego. Soy analista de automatización.
 
-Automatizador de pruebas de software 
-------------------------------------
+Este es mi mundo de estudios y prácticas.
 
-* 🌍  Vivo en Medellín, Colombia <span>&#127464;&#127476;</span>
-* ✉️  Puedes contactarme en [diegopip62@gmail.com](mailto:diegopip62@gmail.com)
-* 🚀  Actualmente trabajo en [Sofka Technologies](https://www.sofka.com.co/es/inicio/)
-* 🤝  Estoy abierto a colaborar en Automatización de pruebas web, api y móviles.
-* ⚡  Ingeniero en Mecatrónica
+### Herramientas | Metodologías | Tecnologías
 
-### Tecnologías: Lenguajes de programación
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-plain.svg" width="25" height="25"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="25" height="25"/> 
+<img src="https://seeklogo.com/images/S/scrum-logo-B057CBD9B8-seeklogo.com.png" width="25" height="25"/> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="25" height="25"/>
+<br>
+<br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="25" height="25"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cucumber/cucumber-plain.svg" width="25" height="25"/>
+<img src="https://rest-assured.io/img/logo-transparent.png" width="25" height="25"/>
+<br>
+<br>
+<img src="https://serenity-bdd.info/wp-content/uploads/elementor/thumbs/serenity-bdd-pac9onzlqv9ebi90cpg4zsqnp28x4trd1adftgkwbq.png" width="100"/>
+<img src="https://cdn.cdnlogo.com/logos/s/58/sonarqube.svg" width="100"/>
+
+<div>
+<a href="https://github.com/crmallmann">
+<img width="270" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPinzon20&layout=compact"/>
+</a>
+</div>
+
+### Contacto:
+
+<div>
+<a href="https://www.linkedin.com/in/dapq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+<a href = "mailto:diegopip62@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "http://www.instagram.com/dandpzn"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
+</div>
 
 <p align="left">
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="36" height="36" alt="Python" /></a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
 </p>
-
-### Tecnologías: Bases de datos
-
-<p align="left">
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" width="150" height="60" alt="MySql" /></a>
-<a href="https://www.oracle.com/co/database/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg" width="150" height="60" alt="Oracle Database" /></a>
-<a href="https://www.microsoft.com/es-es/sql-server" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="60" height="80" alt="SQL Server" /></a>
-<a href="https://www.microsoft.com/es-es/sql-server" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" width="60" height="80" alt="PostgreSQL" /></a>
-</p>
-
-### Tecnologías: Desarrollo web
-
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-</p>
-
-### Tecnologías: Automatización
-
-<p>
-<a href="https://azure.microsoft.com/es-es/services/devops/" target="_blank" rel="noreferrer"><img src="https://testsmith.io/img/azure-devops.svg" width="150" height="60" alt="Azure Devops" /></a>
-<a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"><img src="https://www.jenkins.io/images/logos/jenkins/Jenkins-stop-the-war.svg" width="60" height="60" alt="Jenkins" /></a>
-<a href="https://www.sonarqube.org/" target="_blank" rel="noreferrer"><img src="https://cdn.cdnlogo.com/logos/s/58/sonarqube.svg" width="150" height="60" alt="Sonarqube"/></a></br>
-<a href="https://serenity-bdd.info/" target="_blank" rel="noreferrer"><img src="https://serenity-bdd.info/wp-content/uploads/elementor/thumbs/serenity-bdd-pac9onzlqv9ebi90cpg4zsqnp28x4trd1adftgkwbq.png" width="150" height="36" alt="serenity-bdd" /></a>
-<a href="https://cucumber.io/" target="_blank" rel="noreferrer"><img src="https://static1.smartbear.co/cucumber/media/images/home/cucumber-icon.svg" width="36" height="36" alt="cucumber" /></a>
-<a href="https://rest-assured.io/" target="_blank" rel="noreferrer"><img src="https://rest-assured.io/img/logo-transparent.png" width="36" height="36" alt="Rest-assured" /></a>
-</p>
-
-### Redes sociales
-
-<p align="left"> <a href="https://www.github.com/DiegoPinzon20" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/dandpzn" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/dapq" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-
-### Insignias
-
-<b>Estadisticas de mi GitHub</b>
-
-<a href="http://www.github.com/DiegoPinzon20"><img src="https://github-readme-stats.vercel.app/api?username=DiegoPinzon20&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DiegoPinzon20's GitHub stats" /></a>
-
-<a href="http://www.github.com/DiegoPinzon20"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DiegoPinzon20&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoPinzon20&layout=compact)](https://github.com/DiegoPinzon20/github-readme-stats)
-
-[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=DiegoPinzon20&bg_color=000000&color=8b6f88&line=00ff88&point=ffffff&area=true&hide_border=true)](https://github.com/DiegoPinzon20)
-
-### Apoyame
-
-<a href="https://www.buymeacoffee.com/DiegoPinzon20"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
