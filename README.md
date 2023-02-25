@@ -1,4 +1,5 @@
 ### Hola <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25" height="25">
+
 Mi nombre es Diego. Soy analista de automatización.
 
 Este es mi mundo de estudios y prácticas.
@@ -25,6 +26,11 @@ Este es mi mundo de estudios y prácticas.
 <a href="https://www.linkedin.com/in/dapq/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 <a href = "mailto:diegopip62@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href = "http://www.instagram.com/dandpzn"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
+</div>
+
+### Visitas:
+<div align="left"> 
+  <img src="https://profile-counter.glitch.me/DiegoPinzon20/count.svg" />
 </div>
 
 <p align="left">
